@@ -21,9 +21,10 @@ All in all it was an AMAZING CHALLENGE (Scratched my head a lot!), Hope to finis
 different levels and functionalities to it. (^_^)
 
 #Cheers
+
 <p>
     <a href="#">
-    <img class=" wp-image-2403 alignleft" width="1000" height="421" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Bowling-Game-PC/master/Assets/Screenshot.JPG"></img>
+    <img class=" wp-image-2403 alignleft" width="800" height="621" alt="Capture" src="https://raw.githubusercontent.com/malcolmmaima/Bowling-Game-PC/master/Assets/Screenshot.JPG"></img>
 
 </a>
 
